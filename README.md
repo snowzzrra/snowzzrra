@@ -3,15 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowzzrra&label=Profile%20views&color=0e75b6&style=flat" alt="snowzzrra" /> </p>
 <hr><br>
 
-- 🔭 Trabalhando em: **Jogo 2D Character Action Metroidvania em Unity / Portfólio dev. web.**
+- 🔭 Trabalhando em: **Jogo 2D Character Action Metroidvania em Unity / Desenvolvimento Mobile.**
 
-- 🌱 Estou aprendendo: **Desenvolvimento Web, React, PHP, PostgreSQL.**
+- 🌱 Estou aprendendo: **Desenvolvimento Mobile, C#, DevExpress, .NET Core e MAUI.**
 
 - 👨‍💻 Portfólio: [aqui!](https://github.com/snowzzrra/projetos-portfolio)
 
 - 📫 Contatos: **guimotta7@gmail.com** / [LinkedIn](https://www.linkedin.com/in/guilherme-paim-motta-b4942b232/)
-
-- ⚡ Estou **<strong>DISPONÍVEL</strong>** para contratação!
 <br><br><hr>
 
 
