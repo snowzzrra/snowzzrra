@@ -6,4 +6,3 @@
 - 🔭 Trabalhando em: **Doom Eternal Archipelago**
 
 - 📫 Contatos: **guimotta7@gmail.com** / [LinkedIn](https://www.linkedin.com/in/guilherme-paim-motta-b4942b232/)
-<br><br><hr>
